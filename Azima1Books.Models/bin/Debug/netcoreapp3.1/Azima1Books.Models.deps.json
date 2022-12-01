@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Azima1Books.Models/1.0.0": {
+        "dependencies": {
+          "Azima1Books.Utility": "1.0.0"
+        },
+        "runtime": {
+          "Azima1Books.Models.dll": {}
+        }
+      },
+      "Azima1Books.Utility/1.0.0": {
+        "runtime": {
+          "Azima1Books.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Azima1Books.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Azima1Books.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
